@@ -8,7 +8,13 @@ I'm a front-end developer from Brazil. I code, I used to [design user interfaces
 
 
 * 🔭 I’m currently working at [Chamaileon](https://chamaileon.io/)  
+* 🎓 I'm finishing Computer Science in June 2023
 * ⚡️ I'm focused on performance, usability and accessibility  
 * 🌱 I’m currently learning Next.js   
 * 💬 Ask me about web accessibility, Angular or Vue.js  
 * 📫 How to reach me: danilo.vilhena@gmail.com  
+
+### Statistics
+
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilovilhena&show_icons=true&theme=react)
+![Danilo's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilovilhena&theme=react&layout=compact)
