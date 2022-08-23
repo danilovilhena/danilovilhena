@@ -1,6 +1,14 @@
-### Hi there 👋
+## Hello, I'm Danilo Vilhena! 👋🏼
+
+I'm a front-end developer from Brazil. I code, I used to [design user interfaces](https://danilovilhena.com/#designs) and [share content](https://instagram.com/dev_danilo).
+
+<a href="https://www.linkedin.com/in/danilo-vilhena/en">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://danilovilhena.com/">![portfolio](https://img.shields.io/badge/Portfolio-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)</a>
+<a href="https://www.instagram.com/dev_danilo/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 <!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilovilhena)
+![Most Used Language ](https://github-readme-stats.vercel.app/api/top-langs/?username=danilovilhena)
 **danilovilhena/danilovilhena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
