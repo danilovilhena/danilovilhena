@@ -8,7 +8,7 @@ I'm a front-end developer from Brazil. I code, I used to [design user interfaces
 
 * ⚡️ I'm focused on performance, usability and accessibility 
 * 🎓 I'm finishing Computer Science in June 2023 
-* 🌱 I’m currently learning Next.js   
+* 🌱 I’m currently learning Next.js and Machine Learning   
 * 💬 Ask me about web accessibility, Angular or Vue.js  
 * 📫 How to reach me: danilo.vilhena@gmail.com  
 
