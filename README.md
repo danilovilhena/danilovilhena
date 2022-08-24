@@ -26,4 +26,27 @@ I'm a front-end developer from Brazil. I code, I used to [design user interfaces
 
 ### Repositories
 
-// TODO
+#### Front-end
+[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=vilhena-portfolio-v2&theme=react)](https://github.com/danilovilhena/vilhena-portfolio-v2)
+[![Punk API](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=punk-api&theme=react)](https://github.com/danilovilhena/punk-api)
+[![Delivery app](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=cardapio-online&theme=react)](https://github.com/danilovilhena/cardapio-online)
+[![Give me a font!](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=give-me-a-font&theme=react)](https://github.com/danilovilhena/give-me-a-font)
+[![COVID Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=angular-covid-dashboard&theme=react)](https://github.com/danilovilhena/angular-covid-dashboard)
+[![TheMovieDB SPA](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=angular-themoviedb-spa&theme=react)](https://github.com/danilovilhena/angular-themoviedb-spa)
+
+#### Back-end
+[![Whatsapp Redirect](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=whatsapp-redirect&theme=react)](https://github.com/danilovilhena/whatsapp-redirect)
+[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=node-chat-app&theme=react)](https://github.com/danilovilhena/node-chat-app)
+[![Weather Forecast](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=node-weather-forecast-website&theme=react)](https://github.com/danilovilhena/node-weather-forecast-website)
+[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=node-task-manager-api&theme=react)](https://github.com/danilovilhena/node-task-manager-api)
+
+#### Full-stack
+[![Angular + Express Blog](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=angular-express-blog&theme=react)](https://github.com/danilovilhena/angular-express-blog)
+
+#### Algorithms
+[![Pathfinding](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=buscas-grafos&theme=react)](https://github.com/danilovilhena/buscas-grafos)
+[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=ladrao-poupador&theme=react)](https://github.com/danilovilhena/ladrao-poupador)
+
+#### Other
+[![Blockchain Store](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=blockchain-store&theme=react)](https://github.com/danilovilhena/blockchain-store)
+
