@@ -15,7 +15,7 @@ I'm a front-end developer from Brazil. I code, I used to [design user interfaces
 ### Work Experience
 | Job Position                     | Company            | Field                        | Work Period                |
 | -------------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **Junior Javascript Developer**  | **Chamaileon**     | **Fullstack**                | **05.2022 — until now**    |
+| **Javascript Developer**  | **Chamaileon**     | **Fullstack**                | **05.2022 — until now**    |
 | Web Developer                    | DELL Lead          | Front-end                    | 08.2021 — 05.2022          |
 | Intern Web Developer             | DELL Lead          | Front-end                    | 08.2020 — 08.2021          |
 
