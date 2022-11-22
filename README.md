@@ -8,7 +8,7 @@ I'm a front-end developer from Brazil. I code, I used to [design user interfaces
 
 * ⚡️ I'm focused on performance, usability and accessibility 
 * 🎓 I'm finishing Computer Science in June 2023 
-* 🌱 I’m currently learning Next.js and Machine Learning   
+* 🌱 I’m currently learning Next.js
 * 💬 Ask me about web accessibility, Angular or Vue.js  
 * 📫 How to reach me: danilo.vilhena@gmail.com  
 
@@ -27,26 +27,24 @@ I'm a front-end developer from Brazil. I code, I used to [design user interfaces
 ### Repositories
 
 #### Front-end
-[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=vilhena-portfolio-v2&theme=react)](https://github.com/danilovilhena/vilhena-portfolio-v2)
-[![Punk API](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=punk-api&theme=react)](https://github.com/danilovilhena/punk-api)
-[![Delivery app](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=cardapio-online&theme=react)](https://github.com/danilovilhena/cardapio-online)
-[![Give me a font!](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=give-me-a-font&theme=react)](https://github.com/danilovilhena/give-me-a-font)
-[![COVID Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=angular-covid-dashboard&theme=react)](https://github.com/danilovilhena/angular-covid-dashboard)
-[![TheMovieDB SPA](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=angular-themoviedb-spa&theme=react)](https://github.com/danilovilhena/angular-themoviedb-spa)
+1. [Personal Portfolio](https://github.com/danilovilhena/vilhena-portfolio-v2)
+2. [Delivery app](https://github.com/danilovilhena/cardapio-online)
+3. [Punk API](https://github.com/danilovilhena/punk-api)
+4. [Give me a font!](https://github.com/danilovilhena/give-me-a-font)
+5. [COVID Dashboard](https://github.com/danilovilhena/angular-covid-dashboard)
 
 #### Back-end
-[![Whatsapp Redirect](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=whatsapp-redirect&theme=react)](https://github.com/danilovilhena/whatsapp-redirect)
-[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=node-chat-app&theme=react)](https://github.com/danilovilhena/node-chat-app)
-[![Weather Forecast](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=node-weather-forecast-website&theme=react)](https://github.com/danilovilhena/node-weather-forecast-website)
-[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=node-task-manager-api&theme=react)](https://github.com/danilovilhena/node-task-manager-api)
+1. [Whatsapp Redirect](https://github.com/danilovilhena/whatsapp-redirect)
+2. [Chat App](https://github.com/danilovilhena/node-chat-app)
+3. [Weather Forecast](https://github.com/danilovilhena/node-weather-forecast-website)
+4. [Task Manager](https://github.com/danilovilhena/node-task-manager-api)
 
 #### Full-stack
-[![Angular + Express Blog](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=angular-express-blog&theme=react)](https://github.com/danilovilhena/angular-express-blog)
+1. [Blog Tech News](https://github.com/danilovilhena/angular-express-blog)
 
 #### Algorithms
-[![Pathfinding](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=buscas-grafos&theme=react)](https://github.com/danilovilhena/buscas-grafos)
-[![Artificial Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=ladrao-poupador&theme=react)](https://github.com/danilovilhena/ladrao-poupador)
+1. [Pathfinding](https://github.com/danilovilhena/buscas-grafos)
+2. [Artificial Intelligence](https://github.com/danilovilhena/ladrao-poupador)
 
 #### Other
-[![Blockchain Store](https://github-readme-stats.vercel.app/api/pin/?username=danilovilhena&repo=blockchain-store&theme=react)](https://github.com/danilovilhena/blockchain-store)
-
+1. [Blockchain Store](https://github.com/danilovilhena/blockchain-store)
