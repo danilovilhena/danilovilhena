@@ -7,7 +7,7 @@ I'm a front-end developer from Brazil. I code, I used to [design user interfaces
 <a href="https://www.instagram.com/dev_danilo/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 * ⚡️ I'm focused on performance, usability and accessibility 
-* 🎓 I'm finishing Computer Science in June 2023 
+* 🎓 I'm finished Computer Science in June 2023 
 * 🌱 I’m currently learning Next.js
 * 💬 Ask me about web accessibility, Angular or Vue.js  
 * 📫 How to reach me: danilo.vilhena@gmail.com  
@@ -15,7 +15,7 @@ I'm a front-end developer from Brazil. I code, I used to [design user interfaces
 ### Work Experience
 | Job Position                     | Company            | Field                        | Work Period                |
 | -------------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **Javascript Developer**  | **Chamaileon**     | **Fullstack**                | **05.2022 — until now**    |
+| **Fullstack Developer**  | **Chamaileon**     | **Fullstack**                | **05.2022 — until now**    |
 | Web Developer                    | DELL Lead          | Front-end                    | 08.2021 — 05.2022          |
 | Intern Web Developer             | DELL Lead          | Front-end                    | 08.2020 — 08.2021          |
 
