@@ -13,16 +13,6 @@ My preferred technologies are:
 ### Work Experience
 | Job Position                     | Company            | Field                        | Work Period                |
 | -------------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **Fullstack Developer**  | **Chamaileon**     | **Fullstack**                | **05.2022 — until now**    |
+| **Fullstack Developer**          | **Chamaileon**     | **Fullstack**                | **05.2022 — until now**    |
 | Web Developer                    | DELL Lead          | Front-end                    | 08.2021 — 05.2022          |
 | Intern Web Developer             | DELL Lead          | Front-end                    | 08.2020 — 08.2021          |
-
-#### Full-stack
-1. [Blog Tech News](https://github.com/danilovilhena/angular-express-blog)
-
-#### Algorithms
-1. [Pathfinding](https://github.com/danilovilhena/buscas-grafos)
-2. [Artificial Intelligence](https://github.com/danilovilhena/ladrao-poupador)
-
-#### Other
-1. [Blockchain Store](https://github.com/danilovilhena/blockchain-store)
