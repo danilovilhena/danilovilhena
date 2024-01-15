@@ -2,7 +2,7 @@
 
 I'm a Fullstack Developer from Brazil 🇧🇷
 
-In every project, my goal is: **deliver quality code, acessible, pixel-perfect and with 100% test coverage within the established timelines.**
+In every project, my goal is: **deliver quality code, acessible, pixel-perfect and with excellent test coverage within the established timelines.**
 
 My preferred technologies are:
 - Vue or Next.js
