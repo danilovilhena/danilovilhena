@@ -1,5 +1,7 @@
 ## Hey, I'm Danilo! 👋🏼
 
-**Full-stack Engineer** based in Brazil 🇧🇷. I design, build, and *tune* web software end-to-end — from UX and front-end to APIs, databases, and automations.  
+**Full-stack Engineer** based in Brazil 🇧🇷
 
-I ship **accessible**, **pixel-perfect** UIs with **rigorous tests**, and I love squeezing milliseconds out of the stack.
+I build software with **care** and **intention**, focusing on performance, reliability, and the details that elevate product quality. I work thoughtfully across the stack to create systems that feel solid and predictable.
+
+I value well-written code, refined interactions, and well-structured design. Every layer is considered, clarity and organization drives how I build.
