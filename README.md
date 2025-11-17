@@ -1,6 +1,6 @@
 ## Hey, I'm Danilo! 👋🏼
 
-**Full-stack Engineer** based in Brazil 🇧🇷
+**Full Stack Engineer** based in Brazil 🇧🇷
 
 I build software with **care** and **intention**, focusing on performance, reliability, and the details that elevate product quality. I work thoughtfully across the stack to create systems that feel solid and predictable.
 
